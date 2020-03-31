@@ -1,2 +1,2 @@
 # electron-router-react-boilerplate
-react application with express like router on electron.
+react application with like router like on electron.
